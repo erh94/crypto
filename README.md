@@ -1,4 +1,4 @@
 # crypto
 
-ResourceFull Material:
+ResourceFul Material:
 https://classroom.udacity.com/courses/ud459
